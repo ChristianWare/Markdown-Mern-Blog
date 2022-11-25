@@ -23,7 +23,7 @@ const AdminNav = () => {
         <Link href='/comments' legacyBehavior>
           <a>Contacts</a>
         </Link>
-        <Link href='/post/create' legacyBehavior>
+        <Link href='admin/post/create' legacyBehavior>
           <a>New Post</a>
         </Link>
       </div>
